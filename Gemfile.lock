@@ -247,14 +247,22 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+<<<<<<< HEAD
     webrick (1.9.1)
+=======
+    webrick (1.8.1)
+>>>>>>> origin/master
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
   github-pages
+<<<<<<< HEAD
   webrick (~> 1.9)
+=======
+  webrick (~> 1.8)
+>>>>>>> origin/master
 
 BUNDLED WITH
    2.4.12
